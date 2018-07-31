@@ -5,7 +5,7 @@
 ### Without Docker ###
 ``` go run main.go ```
 ### With Docker ###
-``` docker build -t shopee-service . ```
+``` docker build -t currencyexchange-service . ```
 
 
 ### Testing References ###
